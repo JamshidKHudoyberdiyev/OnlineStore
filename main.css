@@ -2,3 +2,12 @@ h1{
     background-color: red;
     color: white;
 }
+p{
+    background-color: blue;
+    color: white;
+}
+
+footer{
+    background-color: blueviolet;
+    color: red;
+}
